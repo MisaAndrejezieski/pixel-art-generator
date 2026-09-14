@@ -1,0 +1,17 @@
+# Ambiente Virtual
+.venv/
+venv/
+ENV/
+
+# Python / Bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Configurações de IDEs
+.vscode/
+.idea/
+
+# Arquivos temporários do SO
+Thumbs.db
+Desktop.ini
